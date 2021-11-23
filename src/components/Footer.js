@@ -31,7 +31,7 @@ export default function Footer() {
 
           <SocialIcons />
         </Flex>
-        <p>&copy; 2021 Eathub. All righs reserved</p>
+        <p>&copy; 2021 Eathub. All rights reserved</p>
       </Container>
     </FooterStyle>
   );
